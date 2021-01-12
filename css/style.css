@@ -64,7 +64,6 @@ ul {
 }
 
 nav {
-	column-gap: 2em;
 	display: grid;
 	grid-template-columns: auto auto auto auto;
 	padding: 1.5em 0;
